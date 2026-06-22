@@ -170,3 +170,4 @@ Configured in `HungryMonster.API/appsettings.json`:
   "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=HungryMonsterDb;Trusted_Connection=True"
 }
 ```
+
